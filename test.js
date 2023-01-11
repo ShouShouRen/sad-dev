@@ -8,3 +8,5 @@ if(true){
 }else{
     console.log("false");
 }
+
+hello();
